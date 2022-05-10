@@ -76,6 +76,10 @@ End user: The user-facing applications held together by everything below them!
   <img src="assets/nibabies_func.png" alt="functional" width="374px" height="450px">
 </div>
 
+--
+
+* Explore a [sample report](sample-report/sub-01.html).
+
 ---
 
 ## Community engagement
