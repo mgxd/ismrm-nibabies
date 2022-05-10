@@ -6,7 +6,7 @@ class: center middle
 #### Center for Reproducible Neuroscience
 #### Stanford University
 
-###### Slides hosted at [https://mgxd.github.io/nibabies-ismrm2022](https://mgxd.github.io/nibabies-fitng2021)
+###### Slides hosted at [https://mgxd.github.io/ismrm-nibabies](https://mgxd.github.io/ismrm-nibabies)
 
 ---
 name: footer
